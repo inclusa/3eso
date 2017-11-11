@@ -1,0 +1,41 @@
+cook	cuinar
+do my homework	fer els meus deures
+finish	acabar
+get home	arribar a casa
+get up	alça't
+go shopping	anar de compres
+go to bed	vés al llit
+go to school	anar a l'escola
+go to work	anar a treballar
+have breakfast	esmorzar
+listen music	escolatar música
+relax	relax
+tidy your room	endreçar l'habitació
+wake me up	desperta'm
+watch videos	veure vídeos
+a week	una setmana
+Mondays	els dilluns
+night	de nit
+the evening	per la nit
+Monday	dilluns
+Tuesday	dimarts
+Wednesday	dimecres
+Thursday	dijous
+Friday	divendres
+Saturday	dissabte
+Sunday	diumenge
+What	què
+Where	on
+Who	qui
+Why	per què
+How	com
+How often	com de sovint
+What time do	a quina hora ho fas
+When does	quan ho fas
+How much	quant (incomptables)
+How many	quant (comptables)
+concert	concert
+exhibition	exhibició
+festival	festival
+funfair	fira d’atraccions
+parade	desfilada

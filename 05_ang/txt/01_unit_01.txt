@@ -1,0 +1,58 @@
+app	aplicació
+comic	còmic
+crace	mania
+fad	moda
+fan	ventilador
+follower	seguidor
+gadget	artilugi
+games console	consola de jocs
+post	enviar, artícle
+social media	medis de comunicació social
+toy	joguet
+tweet	piular
+views	punts de vista
+amazingly	espantosament
+apparently	aparentment
+generally	en general
+obvious	obvi
+be	ser, estar
+be interested in	estar interessat en
+cry	plorar
+go	anar
+have	haver, tenir
+like	m'agrada
+play	jugar
+watch	rellotge
+baggy	forgat
+blouse	blusa
+boots	botes
+coolt	guay
+dress	vestit / vestir
+hat	barret
+hoody	amb caputxa
+jacket	jaqueta
+jeans	pantalons
+patterned	estampat
+plain	pla
+shirt	camisa
+short-sleeved	mànega curta
+shorts	pantalons curts
+skirt	falda
+smart	intel·ligent
+socks	calcetins
+tight	apretat
+top	part superior
+trainers	sabates esportives / entrenadors
+trousers	pantalons
+clothes	roba
+bootom half	meitat infefior
+top half	meitat superior
+appear	aparèixer
+comfortable	còmode
+delicate	delicat
+fabric	tela
+fibre	fibra
+smooth	suau
+soft	suau
+synthetic	sintètic
+water-resistant	resisten a l'aigua
