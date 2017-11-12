@@ -1,6 +1,6 @@
 app	aplicació
 comic	còmic
-crace	mania
+cracze	mania
 fad	moda
 fan	ventilador
 follower	seguidor
